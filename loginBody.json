@@ -1,0 +1,9 @@
+{
+  "user_parameter": {
+    "password": "246810UAM",
+    "email": "portalUAM1@autonoma.edu.co"
+  },
+  "api_token_parameter": {
+    "token_type": "prueba-portal"
+  }
+}
